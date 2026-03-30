@@ -13,4 +13,7 @@
 <img width="1280" height="720" alt="Malaysia&#39;s CO2 emmission ppt pptx (10)" src="https://github.com/user-attachments/assets/bb79f481-acf0-465c-95d1-15bd9478d2cb" />
 <img width="1280" height="720" alt="Malaysia&#39;s CO2 emmission ppt pptx (11)" src="https://github.com/user-attachments/assets/ec71dda4-87dc-40e0-a241-8f50bfd870cd" />
 <img width="1280" height="720" alt="Malaysia&#39;s CO2 emmission ppt pptx (12)" src="https://github.com/user-attachments/assets/d38205aa-4fc5-4868-bb1a-6b61a71db4a8" />
+<img width="1280" height="720" alt="Malaysia&#39;s CO2 emmission ppt pptx (13)" src="https://github.com/user-attachments/assets/6ceffcc6-d54d-4140-b962-d47473395b8c" />
+<img width="1280" height="720" alt="Malaysia&#39;s CO2 emmission ppt pptx (14)" src="https://github.com/user-attachments/assets/104b685f-8b74-4046-9ccd-cc945cb65946" />
+
 
