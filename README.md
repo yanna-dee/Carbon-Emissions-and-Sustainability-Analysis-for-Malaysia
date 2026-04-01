@@ -16,4 +16,9 @@
 <img width="1280" height="720" alt="Malaysia&#39;s CO2 emmission ppt pptx (13)" src="https://github.com/user-attachments/assets/6ceffcc6-d54d-4140-b962-d47473395b8c" />
 <img width="1280" height="720" alt="Malaysia&#39;s CO2 emmission ppt pptx (14)" src="https://github.com/user-attachments/assets/104b685f-8b74-4046-9ccd-cc945cb65946" />
 
-
+# Collaborators
+- Canasa, Reignelle
+- Dee, Yanna
+- Jimenez, Pocholo
+- Pido, Jake
+- Riman, Keum
